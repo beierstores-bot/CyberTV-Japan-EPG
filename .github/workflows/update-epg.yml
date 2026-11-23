@@ -1,1 +1,34 @@
+name: Build CyberTV Japan Master EPG
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 */12 * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build merged XMLTV
+        run: python scripts/build_epg.py
+      - name: Publish to Pages directory
+        run: |
+          mkdir -p public
+          test -s public/CYBERTV_JAPAN_MASTER.xml.gz
+          test -s public/coverage-report.json
+      - name: Deploy GitHub Pages
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+      - name: Publish Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
