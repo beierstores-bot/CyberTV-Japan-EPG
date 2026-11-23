@@ -1,0 +1,1322 @@
+[
+  {
+    "name": "釣り (Primehome)",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": "10704"
+  },
+  {
+    "name": "ショップチャンネル (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "10724"
+  },
+  {
+    "name": "代替 テレ朝系",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "代替 テレ東系",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "代替 フジテレビ系",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ワンニャンチャンネル (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ウェザーニュースLiVE (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "映画 (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "おとなの歓楽街 by MEN’S NECO (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "セクシーエンタメチャンネル (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "演歌・歌謡 (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "エンタメ～テレDEEP (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "パチンコ・パチスロ (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "麻雀 (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "将棋 (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "366000"
+  },
+  {
+    "name": "囲碁・将棋ライト (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "10763"
+  },
+  {
+    "name": "手塚プロダクションTV (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "刺激ストロングSPORTS (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ゴルフネットTV (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "365959"
+  },
+  {
+    "name": "オリコンニュース (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "共同通信News (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "鉄道・旅 (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ムビドラTV (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NEW KPOP",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "HISTORY",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "365994"
+  },
+  {
+    "name": "しまじろうチャンネル (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "キッズ (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "365988"
+  },
+  {
+    "name": "Shop Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "刺激ストロング (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "GAORA ZERO",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "365957"
+  },
+  {
+    "name": "FUEL TV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "スカイA サプリ (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "10825"
+  },
+  {
+    "name": "日テレNEWS (Primehome)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "365996"
+  },
+  {
+    "name": "アイドル・グラビア (Primehome)",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Discovery Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Nihon Eiga Senmon",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Jidaigeki Senmon",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Fuji TV ONE",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": "10704"
+  },
+  {
+    "name": "Fuji TV TWO",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NHK BS",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NTV+",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "競輪・オートレースチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "keirin-auto",
+    "source_id": null
+  },
+  {
+    "name": "アニメ ポケットモンスターチャンネル1(Primehome)",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "アニメ ポケットモンスターチャンネル2(Primehome)",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "アニメチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "abema-anime",
+    "source_id": null
+  },
+  {
+    "name": "アニメチャンネル2(Primehome)",
+    "group": "Abema",
+    "tvg_id": "abema-anime-2",
+    "source_id": null
+  },
+  {
+    "name": "アニメSPECIALチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "special-plus-7",
+    "source_id": null
+  },
+  {
+    "name": "異世界・ファンタジーアニメチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "isekai-anime",
+    "source_id": null
+  },
+  {
+    "name": "アニメLIVEチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "anime-live",
+    "source_id": null
+  },
+  {
+    "name": "ラブコメアニメチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "lovecomedy-anime",
+    "source_id": null
+  },
+  {
+    "name": "日常・青春アニメチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "dailylife-anime",
+    "source_id": null
+  },
+  {
+    "name": "深夜アニメチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "late-night-anime",
+    "source_id": null
+  },
+  {
+    "name": "ちびまる子ちゃんチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ファミリーアニメ(Primehome)",
+    "group": "Abema",
+    "tvg_id": "family-anime-1",
+    "source_id": null
+  },
+  {
+    "name": "ファミリーアニメ２(Primehome)",
+    "group": "Abema",
+    "tvg_id": "family-anime-2",
+    "source_id": null
+  },
+  {
+    "name": "なつかしアニメ80's(Primehome)",
+    "group": "Abema",
+    "tvg_id": "80s-anime-1",
+    "source_id": null
+  },
+  {
+    "name": "なつかしアニメ90's(Primehome)",
+    "group": "Abema",
+    "tvg_id": "90s-anime-1",
+    "source_id": null
+  },
+  {
+    "name": "なつかしアニメ00's(Primehome)",
+    "group": "Abema",
+    "tvg_id": "00s-anime-1",
+    "source_id": null
+  },
+  {
+    "name": "韓国ドラマチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "asia-drama",
+    "source_id": null
+  },
+  {
+    "name": "韓国ドラマチャンネル2(Primehome)",
+    "group": "Abema",
+    "tvg_id": "asia-drama-2",
+    "source_id": null
+  },
+  {
+    "name": "中国ドラマチャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "韓国ラブコメディ(Primehome)",
+    "group": "Abema",
+    "tvg_id": "asia-love-comedy",
+    "source_id": null
+  },
+  {
+    "name": "韓国時代劇(Primehome)",
+    "group": "Abema",
+    "tvg_id": "asia-historical",
+    "source_id": null
+  },
+  {
+    "name": "ドラマ映画チャンネル(Primehome)",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ドラマ映画チャンネル2(Primehome)",
+    "group": "Abema",
+    "tvg_id": "drama-2",
+    "source_id": null
+  },
+  {
+    "name": "麻雀チャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "mahjong",
+    "source_id": null
+  },
+  {
+    "name": "MOTOR SPORTチャンネル",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "大相撲チャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "格闘チャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "fighting-sports",
+    "source_id": null
+  },
+  {
+    "name": "CMチャンネル",
+    "group": "Abema",
+    "tvg_id": "commercial",
+    "source_id": null
+  },
+  {
+    "name": "異世界・ファンタジーアニメ2チャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": "isekai-anime-2",
+    "source_id": null
+  },
+  {
+    "name": "異世界・ファンタジーアニメ3チャンネル(Primehome)",
+    "group": "Abema",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NHKワールドジャパン",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Shop Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "QVC",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "GSTV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS 10",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS 11",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS 12",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "WOWOW Plus",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Disney Channel",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "AT-X",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Mnet",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TBS Channel 1",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TBS Channel 2",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Dlife",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Fighting TV Samurai",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Sport live plus",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Shogi Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Home Drama Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Music On! TV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Action Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "QVC",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NTV News24",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "キャンプ・アウトドア (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "GOLF LIFE (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "観るたび (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "今日のごはんなに? (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ペットTV (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "東海ロキポ (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "丸ごと北海道 (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "FASHIONPLUS (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ぴあ落語ざんまい (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "丸ごと九州 (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ビジネス・プレミアム (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "エンタメ・アジア (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "LeminoTV (FAST)",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "STOCK VOICE",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Bloomberg TV+",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Euronews",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Reuters 60",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TOP BARÇA",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NTV Pro Wrestling",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "that’s 70s",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "that’s 80s",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "that’s 90s00s",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "that’s Rock",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ぷれいば！",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "九州・沖縄　街ネタ",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "映画（年齢制限あり）",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "それがロックです",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "pureiba",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TOP BARCT",
+    "group": "Japan",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ユーロニュース",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Bloomberg TV+",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ストイックボイス",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TOKYO MX2",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TV Asahi",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Gaora Sports",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ゴルフネットワーク",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "KBS",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "KBS World",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "鉄道チャンネル",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ザ・シネマ",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TV-サムライ",
+    "group": "Japan",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Music Air",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BSよしもと",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Pigoo",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "V Paradise",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Weather News",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TOKYO MX2",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ミステリーチャンネル",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "しまじろうチャンネル",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TV Asahi Channel 1",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TV Asahi Channel 2",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "The Cinema",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Me-Tele NEXT",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "映画・チャンネルNECO",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TBS",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NHK G",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NHK E",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Fuji TV",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TOKYO MX1",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "K G Osaka",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "SUN",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "MBS",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ABC",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "knsai TV",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Tv Osaka",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ytv",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Golf Network",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "アクションチャンネル",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TBSNews",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BBC News",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "CNNj",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ビジネス・プレミアム",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "エンタメニュース",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "en Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "JSport 1",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Jsport 2",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Jsport 3",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Jsport 4",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Sky A",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Nttele G+",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "GOLF LIFE",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ei Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "衛星劇場",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Movie Plus",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Neco Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "daigeki Senmon",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Family Gekijyo",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Fome Drama Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Channel Ginga",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "LaLa TV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Mystery Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "LeminoTV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "エンタメ・アジア",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Aimax",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TAKARAZUKASKYSTAGE.jp",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "スペースシャワーTV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "MTV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Kayo Pops",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "music japan",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Aimal Planet",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "National Geographic Japan",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Tabi Channel",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Tetsudo Channe",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "ペットTV",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Disney Junior",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "WOWOW Prime",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "WOWOW Live",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "WOWOW Cinema",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Fishing Vision",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "JCOM BS",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NHK BS4K",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS Fuji4K",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS TV Tokyo",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS TBS",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS Asahi",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS NTV",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "NTV",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TV Asahi",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Tokyo",
+    "group": "terrestrial",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TV朝日BS4K",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS NTV 4K",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "TBS 4K",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "BS TV Tokyo 4K",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "将棋チャンネル",
+    "group": "BS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "Nouvelle Paradise",
+    "group": "CS",
+    "tvg_id": null,
+    "source_id": null
+  },
+  {
+    "name": "A",
+    "group": "Japan",
+    "tvg_id": null,
+    "source_id": null
+  }
+]
