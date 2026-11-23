@@ -1,6 +1,6 @@
 name: Build CyberTV Japan Master EPG
 
-on:
+'on':
   workflow_dispatch:
   schedule:
     - cron: "17 */12 * * *"
